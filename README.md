@@ -9,11 +9,11 @@ This class is focusing on Software Production and the steps necessary to make a 
 	- Week 1 Presentation
 
 # Research Folder
-Contains all my Research Project Information
+* Contains all my Research Project Information
 	- Proposal
 	- Paper
 	- Sources
 
 # Extras
-Any Extra Assignments we get for the class
+* Any Extra Assignments we get for the class
 	- Update Resume using LaTex
