@@ -3,7 +3,7 @@ This class is focusing on Software Production and the steps neccassary to make a
 
 # Project Folder
 <p> All requirements for my Capstone Project </p>
-	* Project Proposal
+	*Project Proposal
 	* SRS (Software Requirements Specification)
 	* UML Diagrams
 	* Week 1 Presentation
