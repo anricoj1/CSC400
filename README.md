@@ -1,8 +1,8 @@
 # CSC400 | Capstone Seminar
-This class is focusing on Software Production and the steps neccassary to make agood product, along with a Research Paper and Presentation. In this repo you will find.
+This class is focusing on Software Production and the steps necessary to make a good product, along with a Research Paper and Presentation. In this repo you will find.
 
 # Project Folder
-All requirements for my Capstone Project
+* All requirements for my Capstone Project
 	- Project Proposal
 	- SRS (Software Requirements Specification)
 	- UML Diagrams
